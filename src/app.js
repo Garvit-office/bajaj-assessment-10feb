@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
         <div class="container">
             <h1>Welcome to Bajaj Assessment API</h1>
             <p>Submitted by: <span class="email">garvit0080.be23@chitkara.edu.in</span> (Garvit Chawla)</p>
-            <a href="/public/resume.pdf" class="resume-btn" download>Download My Resume (PDF)</a>
+            <a href="/public/Garvit_Chawla-Software_Engineer.pdf" class="resume-btn" download>Download My Resume (PDF)</a>
             <h2>Available Endpoints</h2>
             <ul>
                 <li><code>POST /bfhl</code> — Fibonacci, Prime, LCM, HCF, AI</li>
