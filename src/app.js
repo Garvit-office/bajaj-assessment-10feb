@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
     <body>
         <div class="container">
             <h1>Welcome to Bajaj Assessment API</h1>
-            <p>Submitted by: <span class="email">garvit0080.be23@chitkara.edu.in</span></p>
+            <p>Submitted by: <span class="email">garvit0080.be23@chitkara.edu.in</span> (Garvit Chawla)</p>
             <a href="/public/resume.pdf" class="resume-btn" download>Download My Resume (PDF)</a>
             <h2>Available Endpoints</h2>
             <ul>
@@ -40,7 +40,7 @@ app.get('/', (req, res) => {
             <p>or use <code>prime</code>, <code>lcm</code>, <code>hcf</code>, <code>AI</code> as per assignment.</p>
             <p style="color:#888;font-size:13px;">Made with Node.js & Express</p>
             <footer style="margin-top:32px;text-align:center;color:#aaa;font-size:13px;">
-                &copy; 2026 Garvit Garg. All rights reserved.
+                &copy; 2026 Garvit Chawla. All rights reserved.
             </footer>
         </div>
     </body>
